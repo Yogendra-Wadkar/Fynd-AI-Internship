@@ -18,7 +18,7 @@ This repository contains the source code and deliverables for the Fynd AI Intern
 * **Features:**
     * **User Dashboard:** Collects feedback and generates instant empathetic AI responses.
     * **Admin Dashboard:** Analyzes reviews to provide 1-sentence summaries and actionable business insights.
-* **Live Demo:** [Click Here to View App](https://huggingface.co/spaces/Yogendra/Fynd-Internship-Task2) *(Replace with your link)*
+* **Live Demo:** [Click Here to View App](https://huggingface.co/spaces/Naruto24Wadkar/Fynd-Internship-Task2) *(Replace with your link)*
 
 ---
 *For detailed implementation details, methodology, and challenges, please refer to the comprehensive PDF Report submitted separately.*
